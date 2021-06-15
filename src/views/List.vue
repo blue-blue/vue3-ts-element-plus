@@ -1,9 +1,9 @@
 <template>
-  <div class="wrap">{{ $t('userInfo.name') }}</div>
+  <div class="wrap">{{$t('userInfo.age')}}</div>
 </template>
 <script>
 export default {
-  name: "Home",
+  name: "List",
   components: {},
 };
 </script>
